@@ -23,6 +23,14 @@
 - *Performance (вимоги до продуктивності)*
 - *Supportability (вимоги до підтримки)*
 
+|Competitor|Functionality|Usability|Reliability|Performance|Supportability|
+|------|------|------|------|------|------|
+|Google Forms|      |      |      |      ||
+|SurveyMonkey|      |      |      |      ||
+|Survio|      |      |      |      ||
+|SurveyJS|      |      |      |      ||
+|Система “ОСА”|      |      |      |      ||
+
  *(у вигляді таблиці).]*
 
 ## Висновки
